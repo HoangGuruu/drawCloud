@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-04-17T07:30:12.471Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="57Oma3PjL1bP3iALF67_" version="24.2.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-17T07:31:02.668Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="5sEsUY4ASfGBo3j3kjq8" version="24.2.5" type="github">
   <diagram name="Trang-1" id="ujEET1riT07Mne3FGxFI">
-    <mxGraphModel dx="1868" dy="1120" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="583" math="0" shadow="0">
+    <mxGraphModel dx="2285" dy="1335" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="583" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -102,6 +102,12 @@
         </mxCell>
         <mxCell id="-tKb0X7vPReTpXO9XSrU-20" value="Sustainability&amp;nbsp;" style="text;html=1;strokeColor=#1a53ff;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontStyle=1;fontColor=#64a7ff;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="-550" y="-20" width="330" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-tKb0X7vPReTpXO9XSrU-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="-tKb0X7vPReTpXO9XSrU-21" target="-tKb0X7vPReTpXO9XSrU-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-tKb0X7vPReTpXO9XSrU-21" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;Design System&lt;/font&gt;" style="text;html=1;strokeColor=#ff8d0a;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontStyle=1;fontColor=#ef7715;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="-0.9099999999999966" y="-350" width="270" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
