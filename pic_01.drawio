@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-07T03:06:12.493Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="stdN4LBrBl1QnI9NWjAU" version="24.3.1" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2024-05-07T03:08:50.367Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="yLGLtMLvRUohxi1fPTAn" version="24.3.1" type="github" pages="4">
   <diagram name="Trang-1" id="GbmUooOCP_BpeFQEdcKu">
     <mxGraphModel dx="1680" dy="840" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -350,7 +350,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="VPB" id="mcj-JdAkGxgh6l3OXw1j">
-    <mxGraphModel dx="709" dy="1512" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="2048" dy="1890" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="tlmY8Dzflcz3n4wstWdR-0" />
         <mxCell id="tlmY8Dzflcz3n4wstWdR-1" parent="tlmY8Dzflcz3n4wstWdR-0" />
@@ -395,6 +395,9 @@
         </mxCell>
         <mxCell id="gunBJwIGbzgK10WiOuau-45" value="VPC 3-Tier" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=30;fontStyle=1;fontColor=#ed7100;" parent="gunBJwIGbzgK10WiOuau-26" vertex="1">
           <mxGeometry x="800" y="1250" width="320" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lZn1xX6ly1xVSYmweJio-0" value="1" style="text;html=1;strokeColor=#2cc336;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=100;fontStyle=1;fontColor=#3cc83c;strokeWidth=4;" vertex="1" parent="gunBJwIGbzgK10WiOuau-26">
+          <mxGeometry x="790" y="30" width="160" height="120" as="geometry" />
         </mxCell>
         <mxCell id="gunBJwIGbzgK10WiOuau-18" value="EKS" style="fillColor=none;strokeColor=#147EBA;dashed=1;verticalAlign=top;fontStyle=1;fontColor=#147EBA;whiteSpace=wrap;html=1;fontSize=15;" parent="gunBJwIGbzgK10WiOuau-3" vertex="1">
           <mxGeometry x="1020" y="140" width="740" height="260" as="geometry" />
