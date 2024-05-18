@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-18T15:18:42.454Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="lZEHHD90s2Jk-NXE5_7Y" version="24.4.3" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2024-05-18T15:18:53.229Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="6_KgWtg-eu7YoARF6bCM" version="24.4.3" type="github" pages="5">
   <diagram name="Trang-1" id="GbmUooOCP_BpeFQEdcKu">
     <mxGraphModel dx="2650" dy="940" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -514,7 +514,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="VPB_Solution" id="tqCDPAYNxvhFMZCJ5BXo">
-    <mxGraphModel dx="388" dy="1796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="996" dy="2109" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="gXSu6fuMi1eYT5oym4pd-0" />
         <mxCell id="gXSu6fuMi1eYT5oym4pd-1" parent="gXSu6fuMi1eYT5oym4pd-0" />
@@ -980,7 +980,7 @@
         <mxCell id="JHKfCITWqCTHGnPtJ9oE-273" value="" style="shape=actor;whiteSpace=wrap;html=1;" vertex="1" parent="gXSu6fuMi1eYT5oym4pd-1">
           <mxGeometry x="2598.91" y="1650" width="50.5" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="JHKfCITWqCTHGnPtJ9oE-274" value="User" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontStyle=1;fontColor=#c925d1;" vertex="1" parent="gXSu6fuMi1eYT5oym4pd-1">
+        <mxCell id="JHKfCITWqCTHGnPtJ9oE-274" value="User" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontStyle=1;fontColor=#404040;" vertex="1" parent="gXSu6fuMi1eYT5oym4pd-1">
           <mxGeometry x="2545.16" y="1718" width="159" height="30" as="geometry" />
         </mxCell>
       </root>
