@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-05-09T10:32:20.374Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="fEzUdXDidJegbd761RkG" version="24.3.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-23T11:06:19.369Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="6qdh5FxDRs9q9LAnkda1" version="24.4.4" type="github">
   <diagram name="Trang-1" id="ujEET1riT07Mne3FGxFI">
-    <mxGraphModel dx="2342" dy="2246" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="583" math="0" shadow="0">
+    <mxGraphModel dx="3787" dy="3223" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="583" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -145,17 +145,20 @@
         <mxCell id="VqSbP30gdeHqLsABzozv-3" value="SAVE TIME" style="text;html=1;strokeColor=#ff8d0a;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=21;fontStyle=1;fontColor=#ef7715;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="-0.9000000000000341" y="-590" width="270" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="hmmZ-md2p80IemaL2Qtf-1" value="Ruby/Ruby on Rails&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; font-weight: 400; text-align: start; text-wrap: nowrap;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22Docker%22%20style%3D%22text%3Bhtml%3D1%3BstrokeColor%3D%231a53ff%3BfillColor%3Dnone%3Balign%3Dcenter%3BverticalAlign%3Dmiddle%3BwhiteSpace%3Dwrap%3Brounded%3D0%3BfontSize%3D16%3BfontStyle%3D1%3BfontColor%3D%2364a7ff%3BstrokeWidth%3D2%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22-560%22%20y%3D%22210%22%20width%3D%22190.41%22%20height%3D%2230%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="text;html=1;strokeColor=#1a53ff;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontStyle=1;fontColor=#64a7ff;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="hmmZ-md2p80IemaL2Qtf-1" value="Ruby/Ruby on Rails&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; font-weight: 400; text-align: start; text-wrap: nowrap;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22Docker%22%20style%3D%22text%3Bhtml%3D1%3BstrokeColor%3D%231a53ff%3BfillColor%3Dnone%3Balign%3Dcenter%3BverticalAlign%3Dmiddle%3BwhiteSpace%3Dwrap%3Brounded%3D0%3BfontSize%3D16%3BfontStyle%3D1%3BfontColor%3D%2364a7ff%3BstrokeWidth%3D2%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22-560%22%20y%3D%22210%22%20width%3D%22190.41%22%20height%3D%2230%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="text;html=1;strokeColor=#1a53ff;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontStyle=1;fontColor=#64a7ff;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="-560" y="390" width="190.41" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="hmmZ-md2p80IemaL2Qtf-2" value="Python/Django" style="text;html=1;strokeColor=#1a53ff;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontStyle=1;fontColor=#64a7ff;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="hmmZ-md2p80IemaL2Qtf-2" value="Python/Django" style="text;html=1;strokeColor=#1a53ff;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontStyle=1;fontColor=#64a7ff;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="-560" y="440" width="190.41" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="hmmZ-md2p80IemaL2Qtf-3" value="Javascript/Nodejs" style="text;html=1;strokeColor=#1a53ff;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontStyle=1;fontColor=#64a7ff;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="hmmZ-md2p80IemaL2Qtf-3" value="Javascript/Nodejs" style="text;html=1;strokeColor=#1a53ff;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontStyle=1;fontColor=#64a7ff;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="-560" y="490" width="190.41" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="hmmZ-md2p80IemaL2Qtf-4" value="Back-End" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontStyle=1;fontColor=#ed7100;opacity=80;textOpacity=90;" vertex="1" parent="1">
+        <mxCell id="hmmZ-md2p80IemaL2Qtf-4" value="Back-End" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontStyle=1;fontColor=#ed7100;opacity=80;textOpacity=90;" parent="1" vertex="1">
           <mxGeometry x="-504.79999999999995" y="350" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CieUn2j9MuOwByOzaxfd-1" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;SENIOR&lt;/span&gt;" style="text;html=1;strokeColor=#ff8d0a;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontStyle=1;fontColor=#ef7715;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="-0.8999999999999666" y="-1200" width="270" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
