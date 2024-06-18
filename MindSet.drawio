@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-06-14T04:27:37.731Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="yVNB0CvnOMy3IapY5JdJ" version="24.5.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-18T03:50:41.308Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="ZH59md8Gfguf_4GNWasz" version="24.5.5" type="github">
   <diagram name="Trang-1" id="ujEET1riT07Mne3FGxFI">
-    <mxGraphModel dx="3214" dy="3596" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="583" math="0" shadow="0">
+    <mxGraphModel dx="2328" dy="2356" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="583" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -178,8 +178,14 @@
         <mxCell id="4g-upzfsBoQSluLP9EnY-3" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;AI Engineer&lt;/span&gt;" style="text;html=1;strokeColor=#ff8d0a;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontStyle=1;fontColor=#ef7715;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="1100" y="-190" width="270" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="qi1XNa2taDHu1fNkGAk2-1" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;ESTIMATE&lt;/span&gt;" style="text;html=1;strokeColor=#FF0011;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontStyle=1;fontColor=#ef7715;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="qi1XNa2taDHu1fNkGAk2-1" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;ESTIMATE&lt;/span&gt;" style="text;html=1;strokeColor=#FF0011;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontStyle=1;fontColor=#ef7715;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="375.20000000000005" y="-770" width="270" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="4dDg5o5YlyH3D9cVlC7b-1" value="Check Logs" style="text;html=1;strokeColor=#ff8d0a;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontStyle=1;fontColor=#ef7715;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="509.99" y="480" width="190.41" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4dDg5o5YlyH3D9cVlC7b-2" value="Check Metric" style="text;html=1;strokeColor=#ff8d0a;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontStyle=1;fontColor=#ef7715;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="509.99" y="540" width="190.41" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
