@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-28T02:10:31.855Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="QNMyrki9_Hc8q7VP6iy6" version="24.6.3" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2024-06-28T02:12:49.297Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="yDBEZ0jnOQQI-Cf323vP" version="24.6.3" type="github" pages="8">
   <diagram name="Trang-1" id="GbmUooOCP_BpeFQEdcKu">
     <mxGraphModel dx="2650" dy="940" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -1708,10 +1708,19 @@
     </mxGraphModel>
   </diagram>
   <diagram id="bBXiz5pbXGGW_QNa4AmC" name="Trang-8">
-    <mxGraphModel dx="1276" dy="516" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="583" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="5180" dy="3407" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="583" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="MGI9MhYoc0zhebQBgS7A-2" value="" style="fillColor=none;strokeColor=#147EBA;dashed=1;verticalAlign=top;fontStyle=0;fontColor=#147EBA;whiteSpace=wrap;html=1;strokeWidth=4;" vertex="1" parent="1">
+          <mxGeometry x="420" y="-270" width="2350" height="1260" as="geometry" />
+        </mxCell>
+        <mxCell id="MGI9MhYoc0zhebQBgS7A-3" value="" style="fillColor=none;strokeColor=#147EBA;dashed=1;verticalAlign=top;fontStyle=0;fontColor=#147EBA;whiteSpace=wrap;html=1;strokeWidth=4;" vertex="1" parent="1">
+          <mxGeometry x="420" y="-590" width="2350" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="2yuOo5AUA8T4Vo1VA7jF-1" value="&lt;span style=&quot;font-family: Helvetica; font-size: 35px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 700; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;API Gateway&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;align=center;fontColor=#000000;fontSize=35;" vertex="1" parent="1">
+          <mxGeometry x="1480" y="-680" width="300" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
