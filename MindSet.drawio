@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-15T03:24:14.805Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="Q8n7nYy7JAwziHho93s2" version="24.6.4" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-07-15T03:54:22.554Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="BXrvHqlpBYggQSxfMvAX" version="24.6.4" type="github" pages="2">
   <diagram name="Trang-1" id="ujEET1riT07Mne3FGxFI">
     <mxGraphModel dx="4017" dy="3039" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="583" math="0" shadow="0">
       <root>
@@ -218,6 +218,14 @@
         <mxCell id="xelkaUk8tfH8t2lGH7X8-4" value="Bussiness" style="text;html=1;strokeColor=#1a53ff;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontStyle=1;fontColor=#64a7ff;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="260" y="-520" width="170" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="xelkaUk8tfH8t2lGH7X8-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xelkaUk8tfH8t2lGH7X8-5" target="xelkaUk8tfH8t2lGH7X8-38">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="240" y="-385" />
+              <mxPoint x="240" y="215" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="xelkaUk8tfH8t2lGH7X8-5" value="YTB" style="text;html=1;strokeColor=#1a53ff;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontStyle=1;fontColor=#64a7ff;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="260" y="-400" width="170" height="30" as="geometry" />
         </mxCell>
@@ -298,6 +306,9 @@
         </mxCell>
         <mxCell id="xelkaUk8tfH8t2lGH7X8-35" value="&lt;font&gt;Views&lt;/font&gt;" style="text;html=1;strokeColor=#CCCC00;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontStyle=1;fontColor=#757500;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1020" y="-250" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xelkaUk8tfH8t2lGH7X8-38" value="YTB Shorts" style="text;html=1;strokeColor=#1a53ff;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontStyle=1;fontColor=#64a7ff;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="435" y="200" width="170" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
