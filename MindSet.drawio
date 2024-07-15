@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-15T03:21:14.387Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="gmVpP2ZNgbhEJzjAuEFF" version="24.6.4" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-07-15T03:21:19.880Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="moM7qLHkR7M6BemfR445" version="24.6.4" type="github" pages="2">
   <diagram name="Trang-1" id="ujEET1riT07Mne3FGxFI">
     <mxGraphModel dx="4017" dy="3039" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="583" math="0" shadow="0">
       <root>
@@ -290,9 +290,6 @@
         </mxCell>
         <mxCell id="xelkaUk8tfH8t2lGH7X8-35" value="&lt;font&gt;Views&lt;/font&gt;" style="text;html=1;strokeColor=#CCCC00;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontStyle=1;fontColor=#757500;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1020" y="-250" width="230" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="xelkaUk8tfH8t2lGH7X8-36" value="Make AI to Sell" style="text;html=1;strokeColor=#1a53ff;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontStyle=1;fontColor=#64a7ff;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="410" y="270" width="220" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
