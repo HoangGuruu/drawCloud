@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-15T03:00:45.610Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="uaxTuIznJx6xjnocWGkv" version="24.6.4" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-07-15T03:04:21.825Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="3cylvejKpIijq1P514Px" version="24.6.4" type="github" pages="2">
   <diagram name="Trang-1" id="ujEET1riT07Mne3FGxFI">
     <mxGraphModel dx="4017" dy="3039" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="583" math="0" shadow="0">
       <root>
@@ -263,6 +263,12 @@
         </mxCell>
         <mxCell id="xelkaUk8tfH8t2lGH7X8-26" value="&lt;font color=&quot;#287619&quot;&gt;Call to Sell and take %&lt;/font&gt;" style="text;html=1;strokeColor=#2bb110;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontStyle=1;fontColor=#48df2a;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="507.5" y="-550" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xelkaUk8tfH8t2lGH7X8-27" value="&lt;font&gt;15-7, 7 videos/ week&lt;/font&gt;" style="text;html=1;strokeColor=#b3094d;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontStyle=1;fontColor=#af0d4e;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="260" y="-230" width="165" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xelkaUk8tfH8t2lGH7X8-28" value="Series finish" style="text;html=1;strokeColor=#b3094d;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontStyle=1;fontColor=#af0d4e;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="380" y="-180" width="165" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
