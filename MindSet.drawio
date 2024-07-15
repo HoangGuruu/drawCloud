@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-15T02:56:48.054Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="2OsdvgmHfTuhnWhfQS0k" version="24.6.4" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-07-15T03:00:45.610Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="uaxTuIznJx6xjnocWGkv" version="24.6.4" type="github" pages="2">
   <diagram name="Trang-1" id="ujEET1riT07Mne3FGxFI">
     <mxGraphModel dx="4017" dy="3039" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="583" math="0" shadow="0">
       <root>
@@ -242,6 +242,27 @@
         </mxCell>
         <mxCell id="xelkaUk8tfH8t2lGH7X8-19" value="&lt;font color=&quot;#287619&quot;&gt;Activity&lt;/font&gt;" style="text;html=1;strokeColor=#2bb110;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontStyle=1;fontColor=#48df2a;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="-82.5" y="-140" width="165" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xelkaUk8tfH8t2lGH7X8-20" value="&lt;font color=&quot;#287619&quot;&gt;Sell Source Code&lt;/font&gt;" style="text;html=1;strokeColor=#2bb110;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontStyle=1;fontColor=#48df2a;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="520" y="-460" width="165" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xelkaUk8tfH8t2lGH7X8-21" value="&lt;font color=&quot;#287619&quot;&gt;50N&lt;/font&gt;" style="text;html=1;strokeColor=#2bb110;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontStyle=1;fontColor=#48df2a;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="760" y="-460" width="165" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xelkaUk8tfH8t2lGH7X8-22" value="&lt;font color=&quot;#287619&quot;&gt;1000, 50, 50M&lt;/font&gt;" style="text;html=1;strokeColor=#2bb110;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontStyle=1;fontColor=#48df2a;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="760" y="-360" width="165" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xelkaUk8tfH8t2lGH7X8-23" value="&lt;font color=&quot;#287619&quot;&gt;5M / month&lt;/font&gt;" style="text;html=1;strokeColor=#2bb110;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontStyle=1;fontColor=#48df2a;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="760" y="-260" width="165" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xelkaUk8tfH8t2lGH7X8-24" value="&lt;font color=&quot;#287619&quot;&gt;Unit&lt;/font&gt;" style="text;html=1;strokeColor=#2bb110;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontStyle=1;fontColor=#48df2a;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="310" y="-360" width="165" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xelkaUk8tfH8t2lGH7X8-25" value="&lt;font color=&quot;#287619&quot;&gt;YTB Money: 500N&lt;/font&gt;" style="text;html=1;strokeColor=#2bb110;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontStyle=1;fontColor=#48df2a;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="520" y="-340" width="165" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xelkaUk8tfH8t2lGH7X8-26" value="&lt;font color=&quot;#287619&quot;&gt;Call to Sell and take %&lt;/font&gt;" style="text;html=1;strokeColor=#2bb110;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontStyle=1;fontColor=#48df2a;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="507.5" y="-550" width="190" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
