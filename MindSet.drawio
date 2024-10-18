@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.7.17" pages="2">
   <diagram name="Trang-1" id="ujEET1riT07Mne3FGxFI">
-    <mxGraphModel dx="2554" dy="2609" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="583" math="0" shadow="0">
+    <mxGraphModel dx="4971" dy="3813" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="583" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -217,8 +217,8 @@
         <mxCell id="7dWwLr5CmhXpt39SM9Ui-8" value="Scaling" style="text;html=1;strokeColor=#1a53ff;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontStyle=1;fontColor=#64a7ff;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="864.79" y="380" width="190.41" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="7dWwLr5CmhXpt39SM9Ui-10" value="Plan" style="text;html=1;strokeColor=#ff8d0a;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontStyle=1;fontColor=#ef7715;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="864.79" y="670" width="190.41" height="30" as="geometry" />
+        <mxCell id="7dWwLr5CmhXpt39SM9Ui-10" value="Plan" style="text;html=1;strokeColor=#FF3D4A;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontStyle=1;fontColor=#ef7715;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="847.39" y="630" width="225.21" height="60" as="geometry" />
         </mxCell>
         <mxCell id="7dWwLr5CmhXpt39SM9Ui-11" value="Loging" style="text;html=1;strokeColor=#1a53ff;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontStyle=1;fontColor=#64a7ff;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="864.79" y="430" width="190.41" height="30" as="geometry" />
