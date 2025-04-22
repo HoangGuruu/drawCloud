@@ -2583,7 +2583,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="lzs-bVPQyiZBOAXivX5O" name="Cloud-Kinetic">
-    <mxGraphModel dx="5220" dy="2018" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="4700" dy="1756" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2848,8 +2848,8 @@
         <mxCell id="voQXzRREp0EOJ_o_UNTB-77" value="AWS Cloud" style="points=[[0,0],[0.25,0],[0.5,0],[0.75,0],[1,0],[1,0.25],[1,0.5],[1,0.75],[1,1],[0.75,1],[0.5,1],[0.25,1],[0,1],[0,0.75],[0,0.5],[0,0.25]];outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;container=0;pointerEvents=0;collapsible=0;recursiveResize=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_aws_cloud_alt;strokeColor=#232F3E;fillColor=none;verticalAlign=top;align=left;spacingLeft=30;fontColor=#000000;dashed=0;fillOpacity=100;shadow=0;" vertex="1" parent="1">
           <mxGeometry x="60" y="1260" width="1220" height="700" as="geometry" />
         </mxCell>
-        <mxCell id="NCVLO4aUjbJJkVZUmfsu-1" value="&lt;strong&gt;© 2025, Copyright by Nguyen Tan Hoang&lt;/strong&gt;" style="text;whiteSpace=wrap;html=1;fontColor=#808080;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="20" y="1970" width="450" height="40" as="geometry" />
+        <mxCell id="NCVLO4aUjbJJkVZUmfsu-1" value="&lt;strong&gt;© 2025, Copyright by Nguyen Tan Hoang - Cloud Kinetics&lt;/strong&gt;" style="text;whiteSpace=wrap;html=1;fontColor=#808080;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="20" y="1970" width="560" height="40" as="geometry" />
         </mxCell>
         <mxCell id="NCVLO4aUjbJJkVZUmfsu-3" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://download.logo.wine/logo/Amazon_Web_Services/Amazon_Web_Services-Logo.wine.png;" vertex="1" parent="1">
           <mxGeometry x="-40" y="1976" width="51" height="34" as="geometry" />
