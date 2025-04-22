@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-19T04:54:09.012Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="IdfusUXguMBkD6x6BQOd" version="24.7.1" type="github" pages="7">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="26.0.13" pages="8">
   <diagram name="EKS" id="GbmUooOCP_BpeFQEdcKu">
     <mxGraphModel dx="2554" dy="860" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -2578,6 +2578,20 @@
         </mxCell>
         <mxCell id="mv6ZEoIqHsVnjkPHqf0j-75" value="Lock state" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontColor=#2180ED;fontSize=16;" vertex="1" parent="mv6ZEoIqHsVnjkPHqf0j-69">
           <mxGeometry x="120" y="222.40999999999985" width="90" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="lzs-bVPQyiZBOAXivX5O" name="Cloud-Kinetic">
+    <mxGraphModel dx="5250" dy="2610" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="LvxiR6OunF2E6UkP-NUc-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="365" y="550" width="1754" height="1240" as="geometry" />
+        </mxCell>
+        <mxCell id="rzsgQAJNmSPGZAS1rP4Q-1" value="" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="1110" y="1240" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
