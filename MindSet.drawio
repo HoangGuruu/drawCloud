@@ -375,7 +375,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="e1cllHoV0WW8lO7IfMob" name="VPBank">
-    <mxGraphModel dx="2510" dy="3128" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="5000" dy="4520" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -434,16 +434,31 @@
           <mxGeometry x="-82.5" y="-1330" width="270" height="80" as="geometry" />
         </mxCell>
         <mxCell id="ybggBTiGUH6R_X9HHjAd-40" value="Model AI phải có độ chính xác cao" style="text;html=1;strokeColor=#1a53ff;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=25;fontStyle=1;fontColor=#64a7ff;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="730" y="-1470" width="190" height="130" as="geometry" />
+          <mxGeometry x="1240" y="-1310" width="190" height="130" as="geometry" />
         </mxCell>
         <mxCell id="ybggBTiGUH6R_X9HHjAd-42" value="&lt;font color=&quot;#287619&quot;&gt;Nhận diện được các &quot; bất thường &quot;&amp;nbsp;&lt;/font&gt;" style="text;html=1;strokeColor=#2bb110;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontStyle=1;fontColor=#48df2a;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="520" y="-1620" width="160" height="120" as="geometry" />
+          <mxGeometry x="1030" y="-1460" width="160" height="120" as="geometry" />
         </mxCell>
         <mxCell id="ybggBTiGUH6R_X9HHjAd-43" value="&lt;font color=&quot;#287619&quot;&gt;Đề xuất được giải pháp&lt;/font&gt;" style="text;html=1;strokeColor=#2bb110;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontStyle=1;fontColor=#48df2a;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="720" y="-1620" width="160" height="120" as="geometry" />
+          <mxGeometry x="1230" y="-1460" width="160" height="120" as="geometry" />
         </mxCell>
         <mxCell id="ybggBTiGUH6R_X9HHjAd-44" value="&lt;font color=&quot;#287619&quot;&gt;Kết nối được các độ liên quan của số liệu&amp;nbsp;&lt;/font&gt;" style="text;html=1;strokeColor=#2bb110;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontStyle=1;fontColor=#48df2a;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="920" y="-1620" width="160" height="120" as="geometry" />
+          <mxGeometry x="1430" y="-1460" width="160" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="ybggBTiGUH6R_X9HHjAd-45" value="&lt;font color=&quot;#287619&quot;&gt;Phù hợp với Businees Rule&lt;/font&gt;" style="text;html=1;strokeColor=#2bb110;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontStyle=1;fontColor=#48df2a;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1625" y="-1460" width="160" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="ybggBTiGUH6R_X9HHjAd-47" value="Data trích xuất các metric phải liên quan đến &quot; bất thường&quot;&amp;nbsp;" style="text;html=1;strokeColor=#1a53ff;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=25;fontStyle=1;fontColor=#64a7ff;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="540" y="-1310" width="190" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="ybggBTiGUH6R_X9HHjAd-49" value="&lt;font color=&quot;#287619&quot;&gt;Làm thế nào tạo được data metric thực | hợp lý phù hợp Business Rule&lt;/font&gt;" style="text;html=1;strokeColor=#2bb110;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontStyle=1;fontColor=#48df2a;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="320" y="-1460" width="160" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="ybggBTiGUH6R_X9HHjAd-50" value="&lt;font color=&quot;#287619&quot;&gt;Xử lý các data metric đó&lt;/font&gt;" style="text;html=1;strokeColor=#2bb110;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontStyle=1;fontColor=#48df2a;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="520" y="-1460" width="160" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="ybggBTiGUH6R_X9HHjAd-51" value="&lt;font color=&quot;#287619&quot;&gt;Model AI có keetss hợp AI Agent để ddauw ra thông báo gần gũi với ngôn ngữ tự nhiên | Hoặc suy nghĩ thông minh&lt;/font&gt;" style="text;html=1;strokeColor=#2bb110;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontStyle=1;fontColor=#48df2a;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1500" y="-1180" width="160" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
