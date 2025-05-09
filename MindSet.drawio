@@ -466,6 +466,9 @@
         <mxCell id="ybggBTiGUH6R_X9HHjAd-53" value="Này là Metric, metric nào cảm giác có thể giúp model tăng độ chính xác khi nhận diện &quot;bất thường&quot;" style="text;html=1;strokeColor=#b3094d;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontStyle=1;fontColor=#af0d4e;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="510" y="-1180" width="240" height="100" as="geometry" />
         </mxCell>
+        <mxCell id="ybggBTiGUH6R_X9HHjAd-54" value="Có thể là dữ liệu có sẵn | Hoặc dữ liệu từ app test&amp;nbsp;&amp;nbsp;&lt;div&gt;|&lt;/div&gt;&lt;div&gt;Và App phải có cách để sinh ra các dữ liệu này --&amp;gt; Để liên tục cải tiên model sau này&amp;nbsp;&lt;/div&gt;" style="text;html=1;strokeColor=#b3094d;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontStyle=1;fontColor=#af0d4e;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="790" y="-1190" width="240" height="150" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
