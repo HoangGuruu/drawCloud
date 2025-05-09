@@ -375,7 +375,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="e1cllHoV0WW8lO7IfMob" name="VPBank">
-    <mxGraphModel dx="4170" dy="4056" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="5000" dy="4520" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -468,6 +468,9 @@
         </mxCell>
         <mxCell id="ybggBTiGUH6R_X9HHjAd-54" value="Có thể là dữ liệu có sẵn | Hoặc dữ liệu từ app test&amp;nbsp;&amp;nbsp;&lt;div&gt;|&lt;/div&gt;&lt;div&gt;Và App phải có cách để sinh ra các dữ liệu này --&amp;gt; Để liên tục cải tiên model sau này&amp;nbsp;&lt;/div&gt;" style="text;html=1;strokeColor=#b3094d;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontStyle=1;fontColor=#af0d4e;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="790" y="-1190" width="240" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="ybggBTiGUH6R_X9HHjAd-55" value="Transaction Log&lt;div&gt;Để làm sao gửi và database&amp;nbsp;&lt;/div&gt;" style="text;html=1;strokeColor=#b3094d;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontStyle=1;fontColor=#af0d4e;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="135" y="-530" width="165" height="200" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
