@@ -375,7 +375,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="e1cllHoV0WW8lO7IfMob" name="VPBank">
-    <mxGraphModel dx="2139" dy="2863" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3427" dy="3526" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -477,6 +477,9 @@
         </mxCell>
         <mxCell id="zpCjV4cBqytCsADgnDSF-1" value="Mô phỏng được cái bất thường gàn giống nhất" style="text;html=1;strokeColor=#b3094d;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontStyle=1;fontColor=#af0d4e;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="330" y="-530" width="165" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="65TR3Gn02yXfLXMBGtYe-1" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;Database&lt;/font&gt;" style="text;html=1;strokeColor=#ff8d0a;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontStyle=1;fontColor=#ef7715;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="740" y="-1500" width="270" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
