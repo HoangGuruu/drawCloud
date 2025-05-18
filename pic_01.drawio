@@ -2583,7 +2583,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="lzs-bVPQyiZBOAXivX5O" name="VPNow">
-    <mxGraphModel dx="4458" dy="1856" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1852" dy="516" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2982,6 +2982,21 @@
         </mxCell>
         <mxCell id="vPacn7PTTmFcRrIMV8PM-32" value="Hệ thông triển khai trên AWS và có thể phục vụ nhiểu loại giao dịch khác nhau" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="2120" y="1220" width="390" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vPacn7PTTmFcRrIMV8PM-33" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3130" y="1020" width="430" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="vPacn7PTTmFcRrIMV8PM-34" value="Model phải chính xác - Input ra Output là bất thường" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="3150" y="1040" width="390" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vPacn7PTTmFcRrIMV8PM-35" value="Có nhiều loại bất thường : từ việc vị trí giao dịch, xác thực, giá giao dịch&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="3150" y="1125" width="390" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vPacn7PTTmFcRrIMV8PM-36" value="Cần phải kết hợp Rule base sao cho hợp lý với ngân hàng thực tế để có thể sử dụng được" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="3150" y="1210" width="390" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="vPacn7PTTmFcRrIMV8PM-37" value="Cần phải kết hợp Rule base với model AI nữa" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="3150" y="1300" width="390" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
