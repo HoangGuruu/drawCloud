@@ -482,7 +482,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="PzTlZlm3mgjd-jzzFH9k" name="Diagram-1">
-    <mxGraphModel dx="1891" dy="1271" grid="1" gridSize="10" guides="1" tooltips="1" connect="0" arrows="0" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2741" dy="1271" grid="1" gridSize="10" guides="1" tooltips="1" connect="0" arrows="0" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -607,6 +607,12 @@
             <mxPoint x="369" y="409" as="sourcePoint" />
             <mxPoint x="415" y="405" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="D_r-dYVL5E9bRStPiXPI-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#FFFFFF;strokeColor=#FFFFFF;" value="" vertex="1">
+          <mxGeometry height="80" width="1210" x="250" y="170" as="geometry" />
+        </mxCell>
+        <mxCell id="D_r-dYVL5E9bRStPiXPI-1" parent="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=37;fontStyle=1;strokeWidth=2;glass=0;shadow=1;" value="&lt;span style=&quot;font-family: Inter, sans-serif; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;&lt;font style=&quot;color: rgb(255, 128, 0);&quot;&gt;CI/CD KNOWLEDGE SUMMARY:&amp;nbsp;&lt;/font&gt;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-family: Inter, sans-serif; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;&lt;font style=&quot;color: rgb(255, 128, 0);&quot;&gt;FROM BASICS TO REAL-WORLD PRACTICE&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="150" width="1820" x="-52" y="131" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
