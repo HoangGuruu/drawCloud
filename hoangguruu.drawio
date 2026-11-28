@@ -316,7 +316,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="q5e-CEmiYcwSJxfw4Vni" name="01-diagram-p1">
-    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1915" dy="1135" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -687,7 +687,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="4doE95keeXkrsz8bHEP6" name="01-diagram-p2">
-    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1702" dy="1009" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1619,7 +1619,7 @@
         <mxCell id="c86" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;fontSize=19;fontColor=#14146b;fontStyle=1;spacing=0;" value="Monitoring" vertex="1">
           <mxGeometry height="32" width="112" x="1537" y="540" as="geometry" />
         </mxCell>
-        <mxCell id="c87" edge="1" parent="1" style="endArrow=block;endFill=1;endSize=5;startArrow=none;startFill=1;startSize=5;html=1;strokeWidth=2.5;strokeColor=#7c3aed;rounded=0;dashed=1;dashPattern=8 6;flowAnimation=1;" value="">
+        <mxCell id="c87" edge="1" parent="1" style="endArrow=block;endFill=1;endSize=5;startArrow=none;startFill=1;startSize=5;html=1;strokeWidth=2.5;strokeColor=#7c3aed;rounded=0;flowAnimation=1;" value="">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="76" y="534" as="sourcePoint" />
             <mxPoint x="76" y="368" as="targetPoint" />
