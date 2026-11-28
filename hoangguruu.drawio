@@ -316,7 +316,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="q5e-CEmiYcwSJxfw4Vni" name="01-diagram-p1">
-    <mxGraphModel dx="1321" dy="783" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -995,12 +995,6 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="c2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;fontSize=68;fontColor=#14146b;fontStyle=1;spacing=0;" value="3. HOW DEVOPS ACTUALLY WORKS" vertex="1">
-          <mxGeometry height="84" width="1560" x="60" as="geometry" />
-        </mxCell>
-        <mxCell id="c3" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;fontSize=38;fontColor=#41538a;fontStyle=0;spacing=0;" value="Modern DevOps Workflow for Mini TikTok" vertex="1">
-          <mxGeometry height="56" width="1000" x="340" y="66" as="geometry" />
-        </mxCell>
         <mxCell id="c4" parent="1" style="rounded=1;absoluteArcSize=1;arcSize=22;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#14146b;strokeWidth=3;" value="" vertex="1">
           <mxGeometry height="577" width="839" x="809" y="141" as="geometry" />
         </mxCell>
